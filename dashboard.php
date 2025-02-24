@@ -11,7 +11,7 @@ include '.includes/toast_notification.php';
          <div class="card">
             <!-- Header tabel -->
              <div class="card-header d-flex justify-content-between align-items-center">
-                <h4>Semua Film</h4>
+                <h4>Semua Fm</h4>
              </div>
              <div class="card-body">
                 <!-- Tabel responsif -->
